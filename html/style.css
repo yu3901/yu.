@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    background-color: aliceblue
+}
+
+header{
+    position: relative;
+    padding-left: 100px
+}
+
+nav{position: absolute;
+   top:0;
+    right:100px;
+}
+
+.lists{
+    display: flex;
+    color:red;
+    list-style-type: none;
+    text-align: center;
+}
+
+.lists{
+    color: red;
+    padding-right: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+.img{
+    width:400px
+}
+
+.me{
+    font-size:;
+}
+
+
+
+.me{
+    padding-left: 0px;
+    text-align: left;
+}
+
+
+.intrduction{
+  
+    
+}
+
+.intrduction2{
+    float: right;
+    padding-right: 700px;
+    vertical-align:  1000px;
+}
+
+
+
+.a1{float:left;
+   }
+
+.a2{
+     padding-left: 40%;
+}
+
+
+
+
